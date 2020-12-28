@@ -1,6 +1,12 @@
 # Reinforcement-Learning-RUG-DL-Course
 
-DL Course Project.
+The project was part of the final project for the Deep Learning Course in the University of Groningen
+
+The main contributors of this project are: Hari Vidharth, Krishnakumar Santhakumar, Ashwin Vaidya, Dhawal Salvi
+
+This project was done to compare the performance of RL algorithms namely DDQN and PPO in open AI gym and Unity environments.
+
+Need to download and load the Unity env plugins separately.
 
 ## Requirments :
 
@@ -16,6 +22,4 @@ Python - version 3.7
 
 ## Environment Builds
 
----
-
-FinalBuild folder contains builds for both linux and windows.
+Please read the included research paper for the experiments conducted and the results obtained.
